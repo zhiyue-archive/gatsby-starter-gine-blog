@@ -3,13 +3,13 @@ module.exports = {
         {
             resolve: `gatsby-theme-gine-blog`,
             options: {
-                configTable: "https://www.notion.so/b4af861710064848aaf9f859c79bb127?v=0de244d6f8414ade9b7b147adcb2f78e"
+                configTable: "https://www.notion.so/zhiyue/68db99a329d1498aaf1e5ff7af519f7e?v=90354b40c8e843b9ae201bb27b98b54f"
             }
         },
         {
             resolve: `gatsby-source-notion-database`,
             options: {
-                configTable: "https://www.notion.so/65b35da1762e4f259904bb4cc38e54fd?v=89e80623e52e4419a35f20e54056cfb8"
+                configTable: "https://www.notion.so/zhiyue/4299f917a182451bac7d4f8e970818e5?v=8181d285bf54472dbcb6dd427ef00942"
             }
         }
     ],
